@@ -1,0 +1,2 @@
+# dotsh
+GitPod environment setup
